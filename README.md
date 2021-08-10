@@ -7,3 +7,5 @@ Task 1: Harris Corner Detector
 Task 2: K-Means Clustering and Colour Image Segmentation
 
 Task 3: Face Recognition using Eigenface
+
+Extract Yale-FaceA.zip before running eigenface.py.
